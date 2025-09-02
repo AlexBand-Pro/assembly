@@ -6,9 +6,9 @@ This project demonstrates **state management with React Hooks**, **dynamic UI re
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo - Play Assembly: Endgame
 
-👉 [![Play Assembly: Endgame](https://github.com/user-attachments/assets/78fa934f-1096-44ff-9d76-95fe990ebec9)](https://kaleidoscopic-moonbeam-458705.netlify.app/)
+[![Play Assembly: Endgame](https://github.com/user-attachments/assets/78fa934f-1096-44ff-9d76-95fe990ebec9)](https://kaleidoscopic-moonbeam-458705.netlify.app/)
 
 ## ✨ Features
 
