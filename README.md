@@ -38,4 +38,6 @@ This project demonstrates **state management with React Hooks**, **dynamic UI re
 3. Correct letters are revealed; wrong letters eliminate a programming language chip.  
 4. The game ends when:
    - ✅ The word is fully guessed (win), or  
-   - ❌ Time runs out / guesses run out (lose).  
+   - ❌ Time runs out / guesses run out (lose).
+  
+---
